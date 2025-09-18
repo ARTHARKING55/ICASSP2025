@@ -33,5 +33,3 @@ Typical features may include:
 - Other handcrafted or learned features  
 
 ---
-
-## 📂 Repository Structure
